@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AQUIL01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AQUILRAZA
+- 👀 I’m interested in MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
+- 🌱 I’m currently learning  FRONTEND  JAVA PROGRAMMING
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me EMAIL aquilraza502@gmail.com
 
 <!---
 AQUIL01/AQUIL01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
