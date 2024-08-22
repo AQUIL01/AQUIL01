@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AQUILRAZA
 - 👀 I’m interested in MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
 - 🌱 I’m currently learning  FRONTEND  JAVA PROGRAMMING
-- 💞️ I’m looking to collaborate on frontend projects and cloud api
+- 💞️ I’m looking to collaborate on frontend projects 
 - 📫 How to reach me EMAIL aquilraza502@gmail.com
 
 <!---
